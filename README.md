@@ -1,5 +1,6 @@
 <!-- default badges list -->
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/508230315/21.2.8%2B)
+[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1098878)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Dashboard for MVC - How to obtain a dashboard item's client data
@@ -10,12 +11,14 @@ The following example uses the DashboardControl's [client-side API](https://doc
 
 ## Files to Look At
 
-- [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml)
 - [ClientData.js](./CS/MvcDashboardApp_ClientData/Scripts/ClientData.js)
+- [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml)
+- [_Layout.cshtml](./CS/MvcDashboardApp_ClientData/Views/Shared/_Layout.cshtml)
 
 ## Documentation
 
 - [Client-Side API Overview for ASP.NET MVC Dashboard ](https://docs.devexpress.com/Dashboard/16796/web-dashboard/aspnet-mvc-dashboard-extension/client-side-api-overview)
+- [Obtain Underlying and Displayed Data in Dashboard Control for JavaScript Applications](https://docs.devexpress.com/Dashboard/403003/web-dashboard/dashboard-control-for-javascript-applications-jquery-knockout-etc/obtain-underlying-and-displayed-data)
 
 ## More Examples
 
