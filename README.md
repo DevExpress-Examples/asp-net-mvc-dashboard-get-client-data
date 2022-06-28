@@ -10,12 +10,14 @@ The following example uses the DashboardControl's [client-side API](https://doc
 
 ## Files to Look At
 
-- [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml)
 - [ClientData.js](./CS/MvcDashboardApp_ClientData/Scripts/ClientData.js)
+- [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml)
+- [_Layout.cshtml](./CS/MvcDashboardApp_ClientData/Views/Shared/_Layout.cshtml)
 
 ## Documentation
 
 - [Client-Side API Overview for ASP.NET MVC Dashboard ](https://docs.devexpress.com/Dashboard/16796/web-dashboard/aspnet-mvc-dashboard-extension/client-side-api-overview)
+- [Obtain Underlying and Displayed Data in Dashboard Control for JavaScript Applications](https://docs.devexpress.com/Dashboard/403003/web-dashboard/dashboard-control-for-javascript-applications-jquery-knockout-etc/obtain-underlying-and-displayed-data)
 
 ## More Examples
 
