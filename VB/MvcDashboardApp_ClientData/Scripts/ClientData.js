@@ -70,7 +70,7 @@ function onItemClick(args) {
         });
 
         var popup = $("#myPopup").data("dxPopup");
-        popup.option('title', clickedPoint.GetValue() + " - Details");
+        popup.option('title', clickedPoint.getValue() + " - Details");
         $popupContent = popup.content();
         $popupContent.empty();
         $popupContent.append($chart);
