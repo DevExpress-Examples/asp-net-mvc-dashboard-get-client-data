@@ -15,5 +15,5 @@ End section
     settings.Height = Unit.Percentage(100)
     settings.WorkingMode = DevExpress.DashboardWeb.WorkingMode.Viewer
     settings.ClientSideEvents.BeforeRender = "onBeforeRender"
-    End Sub).GetHtml()
+End Sub).GetHtml()
 </div>
