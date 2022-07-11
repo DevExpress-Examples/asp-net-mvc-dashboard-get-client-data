@@ -18,8 +18,8 @@ function onItemClick(args) {
             clientDataTable = [],
             clickedItemData,
             delta;
-        var sparklineAxis = DashboardDataAxisNames.SparklineAxis,
-            defaultAxis = DashboardDataAxisNames.DefaultAxis;
+        var sparklineAxis = "Sparkline",
+            defaultAxis = "Default";
 
         clientData = args.getData();
         clickedPoint = args.getAxisPoint(defaultAxis);
