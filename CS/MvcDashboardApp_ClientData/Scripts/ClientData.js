@@ -77,4 +77,3 @@ function onItemClick(args) {
         popup.show();
     };
 }
-
