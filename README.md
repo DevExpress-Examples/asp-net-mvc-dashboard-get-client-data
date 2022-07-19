@@ -18,8 +18,8 @@ The [ItemDataAxis.getPoints](https://docs.devexpress.com/Dashboard/js-DevExpress
 ## Files to Look At
 
 - [ClientData.js](./CS/MvcDashboardApp_ClientData/Scripts/ClientData.js) (VB: [ClientData.js](./VB/MvcDashboardApp_ClientData/Scripts/ClientData.js))
-- [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml) (VB: [Index.cshtml](./VB/MvcDashboardApp_ClientData/Views/Home/Index.cshtml))
-- [_Layout.cshtml](./CS/MvcDashboardApp_ClientData/Views/Shared/_Layout.cshtml) (VB: [_Layout.cshtml](./VB/MvcDashboardApp_ClientData/Views/Shared/_Layout.cshtml))
+- [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml) (VB: [Index.vbhtml](./VB/MvcDashboardApp_ClientData/Views/Home/Index.vbhtml))
+- [_Layout.cshtml](./CS/MvcDashboardApp_ClientData/Views/Shared/_Layout.cshtml) (VB: [_Layout.vbhtml](./VB/MvcDashboardApp_ClientData/Views/Shared/_Layout.vbhtml))
 
 ## Documentation
 
