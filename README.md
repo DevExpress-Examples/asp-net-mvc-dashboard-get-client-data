@@ -15,7 +15,7 @@ In the event handler, the [e.getData](https://docs.devexpress.com/Dashboard/js-D
 
 The [ItemDataAxis.getPoints](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Data.ItemDataAxis?p=netframework#js_devexpress_dashboard_data_itemdataaxis_getpoints) method is used to obtain axis points that belongs to the "Sparkline" data axis. Corresponding actual/target values are obtained using the [ItemData.getDeltaValue](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.Data.ItemData?p=netframework#js_devexpress_dashboard_data_itemdata_getdeltavalue_deltaid_) method.
 
-## Files to Look At
+## Files to Review 
 
 - [ClientData.js](./CS/MvcDashboardApp_ClientData/Scripts/ClientData.js) (VB: [ClientData.js](./VB/MvcDashboardApp_ClientData/Scripts/ClientData.js))
 - [Index.cshtml](./CS/MvcDashboardApp_ClientData/Views/Home/Index.cshtml) (VB: [Index.vbhtml](./VB/MvcDashboardApp_ClientData/Views/Home/Index.vbhtml))
